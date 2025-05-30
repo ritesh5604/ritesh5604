@@ -1,50 +1,50 @@
-# 👨‍💻 Ritesh Pandey
+# Ritesh Pandey
 
-Hi, I’m Ritesh — a Computer Science undergraduate at KIIT University, deeply committed to building reliable systems from the ground up.
+Hi, I’m Ritesh — a Computer Science student at KIIT University.
 
-I enjoy working at the intersection of **software engineering and system design**, often diving into projects that require a clear understanding of both low-level mechanisms and high-level architecture. Whether it's building a **bootable OS kernel in C & Assembly** or engineering a **scalable notification service with Docker, RabbitMQ, and React**, I like solving problems where robustness and clarity matter.
+I like working on things that feel fundamental. Sometimes that's building a simple OS kernel from scratch, other times it's wiring up a backend service that just works — no frills, no magic, just good logic and clear structure.
 
----
-
-### 🛠️ Technical Interests
-- **Systems Programming** – Operating Systems, Memory Management, FAT File Systems
-- **Backend Engineering** – REST APIs, Message Brokers, Dockerized Services
-- **Full-Stack Development** – React, Node.js, MongoDB
-- **DevOps & Tooling** – Git, Postman, Ubuntu Terminal
+I'm most comfortable when I understand how something works under the hood, and I tend to learn best by building from the ground up. I care about code that’s not just functional, but also clean and intentional.
 
 ---
 
-### 📌 Notable Projects
-- **[16-Bit OS Kernel with FAT16 Driver](https://github.com/ritesh5604/)**  
-  A bootable x86 kernel using BIOS interrupts and FAT16 parsing, written in C & Assembly.  
-  → Focus: Bare-metal programming, FAT table parsing, root directory traversal.
+### 🔧 Things I'm comfortable with
 
-- **[Scalable Notification Service](https://github.com/ritesh5604/Notification-Service)**  
-  Real-time email/SMS/In-App delivery using Node.js, MongoDB, RabbitMQ & Docker Compose.  
-  → Focus: Async message processing, retry logic, REST API design, frontend filtering.
+- **Systems Programming** – OS basics, memory handling, file systems
+- **Backend** – REST APIs, asynchronous tasks, message queues
+- **Frontend** – React (when needed), keeping things minimal
+- **Tooling** – Git, Docker, Postman, Linux CLI
 
 ---
 
-### 🏆 Achievements
-- **Infinity AI Hackathon (March 2025)**  
-  *National Finalist – Top 3.8% (59 out of 1553 teams)*  
-  Represented KIIT University with an AI-driven solution, developed in a cross-functional team.  
-  [Certificate](https://drive.google.com/file/d/1tKmhPq77KA6nskaT0x-wNh5hkq6bHxRe/view?usp=drive_link)
+### 📂 Projects I’ve built
+
+- **[16-Bit OS Kernel](https://github.com/ritesh5604/)**  
+  A minimal x86 OS using FAT16 and BIOS interrupts.  
+  It’s basic, but it boots. Built in C & Assembly.
+
+- **[Notification Service](https://github.com/ritesh5604/Notification-Service)**  
+  A backend system to send email, SMS, and in-app messages.  
+  Uses RabbitMQ for async tasks, MongoDB for storage, and Docker to keep things tidy.
 
 ---
 
-### 📚 Coursework Highlights
-`Data Structures` • `Algorithms` • `Operating Systems` • `Computer Networks`  
-`DBMS` • `Software Engineering` • `OOPs` • `Computer Architecture`
+### 🏁 Recent Highlight
+
+**Infinity AI Hackathon (March 2025)**  
+Selected as a national finalist (Top 3.8% out of 1553 teams).  
+Built an AI-based social impact solution as part of a cross-functional team.
+
+[Certificate →](https://drive.google.com/file/d/1tKmhPq77KA6nskaT0x-wNh5hkq6bHxRe/view?usp=drive_link)
 
 ---
 
-### 🤝 Let’s Connect
-- 📫 Email: [ritesh.90503@gmail.com](mailto:ritesh.90503@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/ritesh-pandey21)  
-- 💻 [GitHub](https://github.com/ritesh5604)
+### 📫 How to reach me
+
+- Email: [ritesh.90503@gmail.com](mailto:ritesh.90503@gmail.com)  
+- LinkedIn: [ritesh-pandey21](https://linkedin.com/in/ritesh-pandey21)  
+- GitHub: [@ritesh5604](https://github.com/ritesh5604)
 
 ---
 
-> *"Consistency beats intensity. A few solid, well-thought-out projects say more than a hundred unfinished ones."*  
-> — Quiet philosophy I follow.
+> Not everything has to be loud to be solid.
