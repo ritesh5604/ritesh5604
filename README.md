@@ -1,50 +1,76 @@
-# Ritesh Pandey
-
-Hi, I’m Ritesh — a Computer Science student at KIIT University.
-
-I like working on things that feel fundamental. Sometimes that's building a simple OS kernel from scratch, other times it's wiring up a backend service that just works — no frills, no magic, just good logic and clear structure.
-
-I'm most comfortable when I understand how something works under the hood, and I tend to learn best by building from the ground up. I care about code that’s not just functional, but also clean and intentional.
+# 👋 Hi, I’m **Ritesh Pandey**  
+*Computer Science student @ KIIT University*
 
 ---
 
-### 🔧 Things I'm comfortable with
+## 🚀 About Me
 
-- **Systems Programming** – OS basics, memory handling, file systems
-- **Backend** – REST APIs, asynchronous tasks, message queues
-- **Frontend** – React (when needed), keeping things minimal
-- **Tooling** – Git, Docker, Postman, Linux CLI
+I’m all about **building things that matter from the ground up** — whether it’s crafting a minimal OS kernel in Assembly or creating a clean, robust backend service. I believe in **understanding the nuts and bolts** behind the tech, writing code that’s clear, intentional, and maintainable.
 
 ---
 
-### 📂 Projects I’ve built
+## 🛠️ Tech Stack & Comfort Zone
 
-- **[16-Bit OS Kernel](https://github.com/ritesh5604/)**  
-  A minimal x86 OS using FAT16 and BIOS interrupts.  
-  It’s basic, but it boots. Built in C & Assembly.
-
-- **[Notification Service](https://github.com/ritesh5604/Notification-Service)**  
-  A backend system to send email, SMS, and in-app messages.  
-  Uses RabbitMQ for async tasks, MongoDB for storage, and Docker to keep things tidy.
-
----
-
-### 🏁 Recent Highlight
-
-**Infinity AI Hackathon (March 2025)**  
-Selected as a national finalist (Top 3.8% out of 1553 teams).  
-Built an AI-based social impact solution as part of a cross-functional team.
-
-[Certificate →](https://drive.google.com/file/d/1tKmhPq77KA6nskaT0x-wNh5hkq6bHxRe/view?usp=drive_link)
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-8A2BE2?style=for-the-badge&logo=assembly-language&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-### 📫 How to reach me
+## 💼 What I Build
 
-- Email: [ritesh.90503@gmail.com](mailto:ritesh.90503@gmail.com)  
-- LinkedIn: [ritesh-pandey21](https://linkedin.com/in/ritesh-pandey21)  
-- GitHub: [@ritesh5604](https://github.com/ritesh5604)
+### 16-Bit OS Kernel  
+⚙️ Minimal x86 OS using BIOS interrupts and FAT16 filesystem.  
+🛠️ Built with C & Assembly.  
+🚀 It actually boots!  
+🔗 [Check it out →](https://github.com/ritesh5604/)
 
 ---
 
-> Not everything has to be loud to be solid.
+### Notification Service  
+📧 Multi-channel backend for email, SMS & in-app notifications.  
+🐇 Powered by RabbitMQ for async tasks.  
+🗃️ Uses MongoDB & Docker for dev consistency.  
+🔗 [See the repo →](https://github.com/ritesh5604/Notification-Service)
+
+---
+
+## 🏆 Recent Highlight
+
+**Infinity AI Hackathon 2025**  
+🏅 National Finalist (Top 3.8% of 1553 teams)  
+🤖 Built AI-driven social impact solutions in a cross-functional team
+
+[🎖️ Certificate](https://drive.google.com/file/d/1tKmhPq77KA6nskaT0x-wNh5hkq6bHxRe/view?usp=drive_link)
+
+---
+
+## 📊 Language & Tool Proficiency
+
+| Language         | Skill Level          |
+|------------------|----------------------|
+| **C / Assembly** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  |
+| **JavaScript / Node.js** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  |
+| **React**        |  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 90%  |
+| **Docker & Linux**| 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 85%  |
+| **RabbitMQ & MongoDB** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 75%  |
+
+---
+
+## 📫 Let’s Connect!
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ritesh.90503@gmail.com)](mailto:ritesh.90503@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/ritesh-pandey21)](https://linkedin.com/in/ritesh-pandey21)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ritesh5604)](https://github.com/ritesh5604)
+
+---
+
+> *"Not everything has to be loud to be solid."*
