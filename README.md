@@ -13,7 +13,7 @@ I’m all about **building things that matter from the ground up** — whether i
 
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-8A2BE2?style=for-the-badge&logo=assembly-language&logoColor=white"/>
+ 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
